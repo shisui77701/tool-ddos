@@ -1,0 +1,1 @@
+to use this tool you must deactivate your antivirus and launch the .exe
